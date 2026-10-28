@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 530 140" role="img" aria-label="MedTech Clínica Médica">
+  <path d="M10 90H56L66 68L80 104L100 36L120 106L140 36L162 98Q164 104 174 104H520" fill="none" stroke="#10233F" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="178" y="82" font-family="Montserrat, Arial, sans-serif" font-weight="700" font-size="56" fill="#10233F" textLength="335" lengthAdjust="spacingAndGlyphs">MEDTECH</text>
+  <text x="240" y="130" font-family="Montserrat, Arial, sans-serif" font-weight="400" font-size="22" fill="#10233F" textLength="272" lengthAdjust="spacing">Clínica Médica</text>
+</svg>
